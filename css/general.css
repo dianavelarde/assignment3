@@ -19,7 +19,7 @@ html {
 	text-size-adjust: 100%;
     
     font-size: 100%;
-    font-family:Georgia, serif;
+    font-family: Merriweather, serif;
 }
 
 img {
@@ -112,6 +112,7 @@ h2 {
     font-family:serif;
     text-align: center;
     padding:0;
+    height:auto;
 }
 
 article {
@@ -120,15 +121,15 @@ article {
 }
  
 h3{
-    font-size: 1.1rem;
+    font-size: 1.5rem;
 }
 
 h4 {
-    font-size:1.1rem;
+    font-size: 1.5rem;
 }
 
 h5 {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
 }
 
 figure{
