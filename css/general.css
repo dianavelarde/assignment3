@@ -91,7 +91,7 @@ header {
     margin: 0;
     overflow: hidden;
     background-image:url(../images/diamonds.jpg);
-	background-size: 30rem;
+	background-size: 100%;
     background-position: center center;
     height: 12rem;
 }
@@ -103,8 +103,6 @@ h1 {
     font-family:serif;
     text-align: center;
     padding:0;
-    height:auto;
-    width:auto;
 }
 
 h2 { 
@@ -114,9 +112,6 @@ h2 {
     font-family:serif;
     text-align: center;
     padding:0;
-    height:auto;
-    width:auto;
-    width:auto;
 }
 
 article {
