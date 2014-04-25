@@ -103,6 +103,8 @@ h1 {
     font-family:serif;
     text-align: center;
     padding:0;
+    height:auto;
+    width:auto;
 }
 
 h2 { 
